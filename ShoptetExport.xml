@@ -649,8 +649,8 @@
 		<EAN>5740031402514</EAN>
 		<PRICE>4.07</PRICE>
 		<STOCK>
-			<VALUE>9.00<VALUE>
-		</STOCK>
+    <VALUE>60</VALUE>
+</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
 		<NAME>Pablo GOLD Frosted MINT 14g</NAME>
@@ -2277,6 +2277,7 @@
 		</STOCK>
 	</SHOPITEM>
 </SHOP>
+
 
 
 
