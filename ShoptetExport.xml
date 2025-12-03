@@ -1,10 +1,12 @@
-<SHOPITEM>
-    <NAME>Pablo Exclusive StrawberryCheesecake 12g</NAME>
-    <CODE>3039</CODE>
-    <EAN>5740031402514</EAN>
-    <PRICE>4.07</PRICE>
+<SHOP>
+    <SHOPITEM>
+        <NAME>Pablo Exclusive StrawberryCheesecake 12g</NAME>
+        <CODE>3039</CODE>
+        <EAN>5740031402514</EAN>
+        <PRICE>4.07</PRICE>
 
-    <STOCK>
-        <VALUE>60</VALUE>
-    </STOCK>
-</SHOPITEM>
+        <STOCK>
+            <AMOUNT>60</AMOUNT>
+        </STOCK>
+    </SHOPITEM>
+</SHOP>
