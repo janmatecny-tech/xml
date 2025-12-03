@@ -652,7 +652,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<AMOUNT>9.00</AMOUNT>
+					<STOCK_AMOUNT>9.00</STOCK_AMOUNT>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2282,4 +2282,5 @@
 		</STOCK>
 	</SHOPITEM>
 </SHOP>
+
 
