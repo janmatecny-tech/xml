@@ -204,7 +204,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>27.00</VALUE>
+					<VALUE>57.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -372,7 +372,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>54.00</VALUE>
+					<VALUE>84.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -414,7 +414,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>31.00</VALUE>
+					<VALUE>41.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -428,7 +428,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>9.00</VALUE>
+					<VALUE>129.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -442,7 +442,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>45.00</VALUE>
+					<VALUE>95.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -456,7 +456,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>42.00</VALUE>
+					<VALUE>92.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -526,7 +526,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>50.00</VALUE>
+					<VALUE>45.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -596,7 +596,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>7.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -638,7 +638,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -652,7 +652,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -708,7 +708,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>40.00</VALUE>
+					<VALUE>70.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -764,7 +764,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>19.00</VALUE>
+					<VALUE>29.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1590,7 +1590,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>20.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1618,7 +1618,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>20.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1641,7 +1641,7 @@
 		<NAME>VUSE GO 1000 PEPPERMINT ICE 20mg 2ml A</NAME>
 		<CODE>201218</CODE>
 		<EAN>8595682192102</EAN>
-		<PRICE>5.90</PRICE>
+		<PRICE>6.23</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -1655,12 +1655,12 @@
 		<NAME>VUSE GO 1000 STRAWBERRY ICE 20mg 2ml A</NAME>
 		<CODE>201220</CODE>
 		<EAN>8595682192058</EAN>
-		<PRICE>5.90</PRICE>
+		<PRICE>6.23</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>33.00</VALUE>
+					<VALUE>23.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1669,7 +1669,7 @@
 		<NAME>VUSE GO 1000 WATERMELON ICE 20mg 2ml A</NAME>
 		<CODE>201221</CODE>
 		<EAN>8595682192089</EAN>
-		<PRICE>5.90</PRICE>
+		<PRICE>6.23</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -1683,7 +1683,7 @@
 		<NAME>VUSE GO 1000 GRAPE ICE 20mg 2ml A</NAME>
 		<CODE>201223</CODE>
 		<EAN>8595682192072</EAN>
-		<PRICE>5.90</PRICE>
+		<PRICE>6.23</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -1697,12 +1697,12 @@
 		<NAME>VUSE GO 1000 BLUEBERRY ICE 20mg 2ml A</NAME>
 		<CODE>201227</CODE>
 		<EAN>8595682192041</EAN>
-		<PRICE>5.90</PRICE>
+		<PRICE>6.23</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>45.00</VALUE>
+					<VALUE>35.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1711,12 +1711,12 @@
 		<NAME>VUSE GO 1000 MANGO ICE 20mg 2ml A</NAME>
 		<CODE>201266</CODE>
 		<EAN>8595682192065</EAN>
-		<PRICE>5.90</PRICE>
+		<PRICE>6.23</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>27.00</VALUE>
+					<VALUE>17.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1725,7 +1725,7 @@
 		<NAME>VUSE GO 1000 DARK CHERRY 20mg 2ml A</NAME>
 		<CODE>201267</CODE>
 		<EAN>8595682192096</EAN>
-		<PRICE>5.90</PRICE>
+		<PRICE>6.23</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -1739,7 +1739,7 @@
 		<NAME>VUSE GO 1000 CREAMY TOBACCO 20mg 2ml A</NAME>
 		<CODE>201268</CODE>
 		<EAN>8595682193383</EAN>
-		<PRICE>5.90</PRICE>
+		<PRICE>6.23</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -1753,7 +1753,7 @@
 		<NAME>VUSE GO 1000 CLASSIC PEACH 20mg 2ml A</NAME>
 		<CODE>201269</CODE>
 		<EAN>8595682193277</EAN>
-		<PRICE>5.90</PRICE>
+		<PRICE>6.23</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -1786,7 +1786,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1823,7 +1823,7 @@
 		<NAME>VUSE GO RELOAD 1000 STRAWBERRY ICE 20mgA</NAME>
 		<CODE>201284</CODE>
 		<EAN>8595682190269</EAN>
-		<PRICE>5.44</PRICE>
+		<PRICE>6.49</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -1837,7 +1837,7 @@
 		<NAME>VUSE GO RELOAD 1000 PEPPERMINT ICE 20mgA</NAME>
 		<CODE>201285</CODE>
 		<EAN>8595682190252</EAN>
-		<PRICE>5.44</PRICE>
+		<PRICE>6.49</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -1926,7 +1926,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>18.00</VALUE>
+					<VALUE>17.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2108,7 +2108,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>14.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2131,7 +2131,7 @@
 		<NAME>blu bar  Blueberry Ice A</NAME>
 		<CODE>209253</CODE>
 		<EAN>8719964064295</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -2145,7 +2145,7 @@
 		<NAME>blu bar  Mango Ice A</NAME>
 		<CODE>209255</CODE>
 		<EAN>8719964064172</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -2159,7 +2159,7 @@
 		<NAME>blu bar  Apple Ice A</NAME>
 		<CODE>209256</CODE>
 		<EAN>8719964064325</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -2173,7 +2173,7 @@
 		<NAME>blu bar  Grape Ice A</NAME>
 		<CODE>209257</CODE>
 		<EAN>8719964064264</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -2187,7 +2187,7 @@
 		<NAME>blu bar  Watermelon Ice A</NAME>
 		<CODE>209258</CODE>
 		<EAN>8719964064059</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -2201,7 +2201,7 @@
 		<NAME>blu bar  Strawberry Ice A</NAME>
 		<CODE>209259</CODE>
 		<EAN>8719964064110</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -2215,7 +2215,7 @@
 		<NAME>blu bar  Berry Mix A</NAME>
 		<CODE>209261</CODE>
 		<EAN>8719964064233</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -2229,7 +2229,7 @@
 		<NAME>blu bar  Kiwi Passionfruit A</NAME>
 		<CODE>209263</CODE>
 		<EAN>8719964064080</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -2243,12 +2243,12 @@
 		<NAME>blu bar Kit Blueberry Ice A /6</NAME>
 		<CODE>209264</CODE>
 		<EAN>8719964074027</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>45.00</VALUE>
+					<VALUE>39.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2257,7 +2257,7 @@
 		<NAME>blu bar Kit Watermelon Ice A /6</NAME>
 		<CODE>209265</CODE>
 		<EAN>8719964074058</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -2271,7 +2271,7 @@
 		<NAME>blu bar Kit Creamy Tobacco A /6</NAME>
 		<CODE>209266</CODE>
 		<EAN>8719964074089</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -2285,7 +2285,7 @@
 		<NAME>blu bar Kit Kiwi Passionfruit A /6</NAME>
 		<CODE>209267</CODE>
 		<EAN>8719964074119</EAN>
-		<PRICE>4.72</PRICE>
+		<PRICE>5.32</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -2304,7 +2304,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>4.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2318,7 +2318,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>19.00</VALUE>
+					<VALUE>6.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2332,7 +2332,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>9.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2374,7 +2374,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>9.00</VALUE>
+					<VALUE>7.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2416,7 +2416,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>10.00</VALUE>
+					<VALUE>9.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2444,7 +2444,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>10.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2570,7 +2570,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>36.00</VALUE>
+					<VALUE>18.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2584,7 +2584,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>72.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2612,7 +2612,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>24.00</VALUE>
+					<VALUE>54.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2640,7 +2640,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>36.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2660,6 +2660,34 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
+		<NAME>VEEV ONE BLUEBERRY X 1.8% MNT 1pod /6</NAME>
+		<CODE>210435</CODE>
+		<EAN>8595701571130</EAN>
+		<PRICE>3.05</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>12.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>VEEV ONE GRAPE 1.8% MNT 1pod /6</NAME>
+		<CODE>210436</CODE>
+		<EAN>8595701569205</EAN>
+		<PRICE>3.05</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>12.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
 		<NAME>C NEO BRIGHT TOBACCO H TTT</NAME>
 		<CODE>211010</CODE>
 		<EAN>85973596</EAN>
@@ -2668,7 +2696,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>140.00</VALUE>
+					<VALUE>100.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2682,7 +2710,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>90.00</VALUE>
+					<VALUE>70.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2738,7 +2766,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2808,7 +2836,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>40.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2948,7 +2976,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>50.00</VALUE>
+					<VALUE>40.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2976,7 +3004,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>10.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3004,7 +3032,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>50.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3032,7 +3060,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3088,7 +3116,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>50.00</VALUE>
+					<VALUE>30.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3116,7 +3144,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>46.00</VALUE>
+					<VALUE>41.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3158,7 +3186,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>25.00</VALUE>
+					<VALUE>15.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3200,7 +3228,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>25.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3214,7 +3242,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>10.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3228,7 +3256,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>65.00</VALUE>
+					<VALUE>55.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3242,7 +3270,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>29.00</VALUE>
+					<VALUE>19.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3256,7 +3284,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3284,7 +3312,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>70.00</VALUE>
+					<VALUE>65.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
