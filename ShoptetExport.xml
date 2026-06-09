@@ -64,7 +64,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>15.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -120,7 +120,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>18.00</VALUE>
+					<VALUE>13.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -176,7 +176,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>21.00</VALUE>
+					<VALUE>16.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -400,7 +400,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>38.00</VALUE>
+					<VALUE>28.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -428,7 +428,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>78.00</VALUE>
+					<VALUE>58.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -456,7 +456,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>76.00</VALUE>
+					<VALUE>56.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -708,7 +708,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -904,7 +904,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>35.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -918,7 +918,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>25.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1702,7 +1702,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1716,7 +1716,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>22.00</VALUE>
+					<VALUE>52.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1744,7 +1744,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>12.00</VALUE>
+					<VALUE>72.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1758,7 +1758,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>60.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1772,7 +1772,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>20.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1828,7 +1828,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>8.00</VALUE>
+					<VALUE>23.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1856,7 +1856,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>10.00</VALUE>
+					<VALUE>25.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1926,7 +1926,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1940,7 +1940,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1954,7 +1954,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1968,7 +1968,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1982,7 +1982,35 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>10.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>VUSE PRO ONE PEN PEPPER. ICE 20mg 2ml A</NAME>
+		<CODE>201291</CODE>
+		<EAN>8595682193352</EAN>
+		<PRICE>6.49</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>18.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>VUSE PRO ONE PEN STRAW. ICE 20mg 2ml A</NAME>
+		<CODE>201292</CODE>
+		<EAN>8595682193369</EAN>
+		<PRICE>6.49</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>18.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1996,7 +2024,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>630.00</VALUE>
+					<VALUE>620.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2066,7 +2094,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>35.00</VALUE>
+					<VALUE>25.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2136,7 +2164,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>91.00</VALUE>
+					<VALUE>51.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2752,7 +2780,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>38.00</VALUE>
+					<VALUE>28.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2766,7 +2794,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2780,7 +2808,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>43.00</VALUE>
+					<VALUE>33.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2794,7 +2822,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>37.00</VALUE>
+					<VALUE>27.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2892,7 +2920,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>33.00</VALUE>
+					<VALUE>27.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2906,7 +2934,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>10.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2934,7 +2962,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2962,7 +2990,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>51.00</VALUE>
+					<VALUE>45.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2976,7 +3004,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>48.00</VALUE>
+					<VALUE>42.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3018,7 +3046,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>12.00</VALUE>
+					<VALUE>6.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3102,7 +3130,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3116,7 +3144,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>54.00</VALUE>
+					<VALUE>12.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3130,7 +3158,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>72.00</VALUE>
+					<VALUE>18.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3144,7 +3172,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>48.00</VALUE>
+					<VALUE>36.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3158,7 +3186,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>78.00</VALUE>
+					<VALUE>66.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3186,7 +3214,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>42.00</VALUE>
+					<VALUE>36.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3200,7 +3228,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>24.00</VALUE>
+					<VALUE>18.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3214,7 +3242,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>36.00</VALUE>
+					<VALUE>30.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3228,7 +3256,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>24.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3242,7 +3270,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>48.00</VALUE>
+					<VALUE>42.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3256,7 +3284,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>70.00</VALUE>
+					<VALUE>50.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3270,7 +3298,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>120.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3284,7 +3312,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>50.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3312,7 +3340,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>40.00</VALUE>
+					<VALUE>100.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3340,7 +3368,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>190.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3368,7 +3396,21 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>130.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>VEO TROPICAL TWIST 4,2g H</NAME>
+		<CODE>211052</CODE>
+		<EAN>85982413</EAN>
+		<PRICE>2.84</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>140.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3382,7 +3424,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>110.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3396,7 +3438,21 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>100.00</VALUE>
+					<VALUE>130.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>VEO ARCTIC CLICK 4,1g H</NAME>
+		<CODE>211057</CODE>
+		<EAN>85982383</EAN>
+		<PRICE>2.84</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>150.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3410,7 +3466,21 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>50.00</VALUE>
+					<VALUE>90.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>VEO PURPLE CLICK 4,1g H</NAME>
+		<CODE>211059</CODE>
+		<EAN>85982369</EAN>
+		<PRICE>2.84</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>170.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3424,7 +3494,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3438,7 +3508,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>40.00</VALUE>
+					<VALUE>140.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3802,7 +3872,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>70.00</VALUE>
+					<VALUE>90.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3830,7 +3900,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>42.00</VALUE>
+					<VALUE>62.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3900,7 +3970,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3914,7 +3984,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>34.00</VALUE>
+					<VALUE>29.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3928,7 +3998,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>40.00</VALUE>
+					<VALUE>65.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3942,7 +4012,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>56.00</VALUE>
+					<VALUE>71.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3956,7 +4026,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>45.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3970,7 +4040,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>30.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3984,7 +4054,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>20.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3998,7 +4068,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>29.00</VALUE>
+					<VALUE>54.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
