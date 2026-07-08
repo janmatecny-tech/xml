@@ -204,7 +204,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>50.00</VALUE>
+					<VALUE>40.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -540,7 +540,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>35.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -876,7 +876,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -904,7 +904,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1912,7 +1912,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>50.00</VALUE>
+					<VALUE>40.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1940,7 +1940,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>38.00</VALUE>
+					<VALUE>28.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2010,7 +2010,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>23.00</VALUE>
+					<VALUE>12.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2206,7 +2206,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>360.00</VALUE>
+					<VALUE>710.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2276,7 +2276,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>16.00</VALUE>
+					<VALUE>6.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2430,7 +2430,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>12.00</VALUE>
+					<VALUE>11.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2948,7 +2948,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>32.00</VALUE>
+					<VALUE>22.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2962,7 +2962,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>28.00</VALUE>
+					<VALUE>18.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2976,7 +2976,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>28.00</VALUE>
+					<VALUE>18.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2990,7 +2990,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>23.00</VALUE>
+					<VALUE>13.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3102,7 +3102,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>60.00</VALUE>
+					<VALUE>48.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3116,7 +3116,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>113.00</VALUE>
+					<VALUE>101.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3130,7 +3130,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>126.00</VALUE>
+					<VALUE>125.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3144,7 +3144,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>208.00</VALUE>
+					<VALUE>202.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3158,7 +3158,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>181.00</VALUE>
+					<VALUE>180.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3304,6 +3304,62 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
+		<NAME>VEEV ONE STRAWBERRY X 1.8% MNT 1 pod /6</NAME>
+		<CODE>210411</CODE>
+		<EAN>8595701571109</EAN>
+		<PRICE>3.05</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>30.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>VEEV ONE WATERMELON 1.8% MNT 1pod /6</NAME>
+		<CODE>210412</CODE>
+		<EAN>8595701569113</EAN>
+		<PRICE>3.05</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>60.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>VEEV ONE MANGO X 1.8% MNT 1pod /6</NAME>
+		<CODE>210414</CODE>
+		<EAN>8595701571161</EAN>
+		<PRICE>3.05</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>30.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>VEEV ONE BLUEBERRY 1.8% MNT 1pod /6</NAME>
+		<CODE>210418</CODE>
+		<EAN>8595701569144</EAN>
+		<PRICE>3.05</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>18.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
 		<NAME>VEEV ONE STRAWBERRY 1.8% MNT 1pod /6</NAME>
 		<CODE>210419</CODE>
 		<EAN>8595701569083</EAN>
@@ -3312,7 +3368,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>58.00</VALUE>
+					<VALUE>100.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3326,7 +3382,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>96.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3340,7 +3396,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>47.00</VALUE>
+					<VALUE>29.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3354,7 +3410,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>63.00</VALUE>
+					<VALUE>81.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3424,7 +3480,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>23.00</VALUE>
+					<VALUE>22.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3480,7 +3536,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3508,7 +3564,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>120.00</VALUE>
+					<VALUE>40.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3536,7 +3592,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>130.00</VALUE>
+					<VALUE>110.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3578,7 +3634,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>80.00</VALUE>
+					<VALUE>70.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3606,7 +3662,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>140.00</VALUE>
+					<VALUE>130.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3620,7 +3676,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>90.00</VALUE>
+					<VALUE>80.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3634,7 +3690,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>90.00</VALUE>
+					<VALUE>80.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3648,7 +3704,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>80.00</VALUE>
+					<VALUE>30.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3746,7 +3802,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>46.00</VALUE>
+					<VALUE>31.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3774,7 +3830,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>46.00</VALUE>
+					<VALUE>31.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4032,6 +4088,62 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
+		<NAME>cgrk MOODS MINI Double filter 20 TTT E</NAME>
+		<CODE>212090</CODE>
+		<EAN>4004008969891</EAN>
+		<PRICE>8.10</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>0.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>cgrk MOODS FILTER 20 TTT E</NAME>
+		<CODE>212091</CODE>
+		<EAN>4004008969938</EAN>
+		<PRICE>10.60</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>0.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>cgrk MOODS 20 TTT E</NAME>
+		<CODE>212092</CODE>
+		<EAN>4004008969921</EAN>
+		<PRICE>10.60</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>0.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>cgrk MOODS Gold filter 20 TTT E</NAME>
+		<CODE>212093</CODE>
+		<EAN>4004008969945</EAN>
+		<PRICE>10.60</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>0.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
 		<NAME>VELO FREEZING PEPPERMINT 6 DOTS 14g A</NAME>
 		<CODE>303010</CODE>
 		<EAN>8595682141674</EAN>
@@ -4040,7 +4152,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>55.00</VALUE>
+					<VALUE>50.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4068,7 +4180,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>62.00</VALUE>
+					<VALUE>42.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4180,7 +4292,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>74.00</VALUE>
+					<VALUE>69.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4194,7 +4306,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>101.00</VALUE>
+					<VALUE>96.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4259,12 +4371,12 @@
 		<NAME>T CASABLANCA 40 g H /5/</NAME>
 		<CODE>304005</CODE>
 		<EAN>42302216</EAN>
-		<PRICE>5.66</PRICE>
+		<PRICE>10.70</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4273,12 +4385,12 @@
 		<NAME>T RED BULL Virginia 40 g H</NAME>
 		<CODE>304015</CODE>
 		<EAN>42302629</EAN>
-		<PRICE>4.85</PRICE>
+		<PRICE>11.50</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4287,7 +4399,7 @@
 		<NAME>T PUEBLO Yellow 30g H /10/</NAME>
 		<CODE>304020</CODE>
 		<EAN>42302919</EAN>
-		<PRICE>5.02</PRICE>
+		<PRICE>9.25</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -4301,12 +4413,12 @@
 		<NAME>T TURNER Original 40g H /5/</NAME>
 		<CODE>304030</CODE>
 		<EAN>54004801</EAN>
-		<PRICE>0.00</PRICE>
+		<PRICE>11.94</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4315,12 +4427,12 @@
 		<NAME>T TURNER Virginia Green 30g H /5/</NAME>
 		<CODE>304031</CODE>
 		<EAN>54004832</EAN>
-		<PRICE>9.27</PRICE>
+		<PRICE>8.98</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4329,12 +4441,12 @@
 		<NAME>T TURNER Dark 40g H /5/</NAME>
 		<CODE>304033</CODE>
 		<EAN>54004825</EAN>
-		<PRICE>2.94</PRICE>
+		<PRICE>11.94</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4376,7 +4488,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>1203.00</VALUE>
+					<VALUE>1183.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
