@@ -904,7 +904,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1520,7 +1520,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>2.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1884,7 +1884,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2220,7 +2220,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>260.00</VALUE>
+					<VALUE>160.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2262,7 +2262,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>14.00</VALUE>
+					<VALUE>9.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2276,7 +2276,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>17.00</VALUE>
+					<VALUE>12.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2290,7 +2290,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>18.00</VALUE>
+					<VALUE>13.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2304,7 +2304,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>13.00</VALUE>
+					<VALUE>8.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2360,7 +2360,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>56.00</VALUE>
+					<VALUE>51.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2374,7 +2374,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>7.00</VALUE>
+					<VALUE>2.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2388,7 +2388,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>14.00</VALUE>
+					<VALUE>9.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2402,7 +2402,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>18.00</VALUE>
+					<VALUE>13.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2464,7 +2464,7 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
-		<NAME>SYX POD Náplň Blue Razz 20mg 2x2ml /5</NAME>
+		<NAME>SYX POD Blue Razz 20mg 2x2ml /5</NAME>
 		<CODE>205041</CODE>
 		<EAN>8595721106671</EAN>
 		<PRICE>5.77</PRICE>
@@ -2478,7 +2478,7 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
-		<NAME>SYX POD Náplň Strawberry Grape 20mg 2x2m</NAME>
+		<NAME>SYX POD Strawberry Grape 20mg 2x2m</NAME>
 		<CODE>205042</CODE>
 		<EAN>8595721106701</EAN>
 		<PRICE>5.77</PRICE>
@@ -2492,7 +2492,7 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
-		<NAME>SYX POD Náplň Coconut Melon 20mg 2x2ml</NAME>
+		<NAME>SYX POD Coconut Melon 20mg 2x2ml</NAME>
 		<CODE>205043</CODE>
 		<EAN>8595721106732</EAN>
 		<PRICE>5.77</PRICE>
@@ -2506,7 +2506,7 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
-		<NAME>SYX POD Náplň Strawberry Banana 20mg 2x</NAME>
+		<NAME>SYX POD Strawberry Banana 20mg 2x</NAME>
 		<CODE>205044</CODE>
 		<EAN>8595721106763</EAN>
 		<PRICE>5.77</PRICE>
@@ -2520,7 +2520,7 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
-		<NAME>SYX POD Náplň Watermelon Ice 20mg 2x2ml</NAME>
+		<NAME>SYX POD Watermelon Ice 20mg 2x2ml</NAME>
 		<CODE>205045</CODE>
 		<EAN>8595721106794</EAN>
 		<PRICE>5.77</PRICE>
@@ -2534,7 +2534,7 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
-		<NAME>SYX POD Náplň Mixed Berries 20mg 2x2ml</NAME>
+		<NAME>SYX POD Mixed Berries 20mg 2x2ml</NAME>
 		<CODE>205046</CODE>
 		<EAN>8595721106855</EAN>
 		<PRICE>5.77</PRICE>
@@ -2548,7 +2548,7 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
-		<NAME>SYX POD Náplň Watermelon Kiwi 20mg 2x2ml</NAME>
+		<NAME>SYX POD Watermelon Kiwi 20mg 2x2ml</NAME>
 		<CODE>205047</CODE>
 		<EAN>8595721106916</EAN>
 		<PRICE>5.77</PRICE>
@@ -2562,7 +2562,7 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
-		<NAME>SYX POD Náplň Mint 20mg 2x2ml</NAME>
+		<NAME>SYX POD Mint 20mg 2x2ml</NAME>
 		<CODE>205048</CODE>
 		<EAN>8595721104196</EAN>
 		<PRICE>5.77</PRICE>
@@ -2576,7 +2576,7 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
-		<NAME>SYX POD Náplň Blackcurrant 20mg 2x2ml</NAME>
+		<NAME>SYX POD Blackcurrant 20mg 2x2ml</NAME>
 		<CODE>205049</CODE>
 		<EAN>8595721111231</EAN>
 		<PRICE>5.77</PRICE>
@@ -2590,7 +2590,7 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
-		<NAME>SYX POD Náplň Cherry 20mg 2x2ml</NAME>
+		<NAME>SYX POD Cherry 20mg 2x2ml</NAME>
 		<CODE>205050</CODE>
 		<EAN>8595721111262</EAN>
 		<PRICE>5.77</PRICE>
@@ -2604,7 +2604,7 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
-		<NAME>SYX POD Náplň Kiwi Passion Guava 20mg 2x</NAME>
+		<NAME>SYX POD Kiwi Passion Guava 20mg 2x</NAME>
 		<CODE>205051</CODE>
 		<EAN>8595721111293</EAN>
 		<PRICE>5.77</PRICE>
@@ -2940,6 +2940,286 @@
 		</STOCK>
 	</SHOPITEM>
 	<SHOPITEM>
+		<NAME>E náplň Drifter Apple Peach 10ml</NAME>
+		<CODE>205078</CODE>
+		<EAN>5056325656786</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Banana Ice 10ml</NAME>
+		<CODE>205079</CODE>
+		<EAN>5056325656946</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>1.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Blackcurrant Ice 10ml</NAME>
+		<CODE>205080</CODE>
+		<EAN>5056325671505</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Sour Blueberry Ice 10ml</NAME>
+		<CODE>205081</CODE>
+		<EAN>5056325671451</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>1.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Cream Tobacco 10ml</NAME>
+		<CODE>205082</CODE>
+		<EAN>5056325656823</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Grape 10ml</NAME>
+		<CODE>205083</CODE>
+		<EAN>5056325656809</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Kiwi Pass Guava Ice 10ml</NAME>
+		<CODE>205084</CODE>
+		<EAN>5056325657141</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Lemon Lime 10ml</NAME>
+		<CODE>205085</CODE>
+		<EAN>5056325657127</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Lychee 10ml</NAME>
+		<CODE>205086</CODE>
+		<EAN>5056325657103</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>5.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Peach Ice 10ml</NAME>
+		<CODE>205087</CODE>
+		<EAN>5056325657028</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Pineapple Ice 10ml</NAME>
+		<CODE>205088</CODE>
+		<EAN>5056325657004</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Sour Apple Ice 10ml</NAME>
+		<CODE>205089</CODE>
+		<EAN>5056325657264</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Strawberry Banan Ic 10ml</NAME>
+		<CODE>205090</CODE>
+		<EAN>5056325657240</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>2.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Strawberry Kiwi 10ml</NAME>
+		<CODE>205091</CODE>
+		<EAN>5056325671420</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Strawb Raspb Cherry 10ml</NAME>
+		<CODE>205092</CODE>
+		<EAN>5056325671413</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Sweet Blueberry Ice 10ml</NAME>
+		<CODE>205093</CODE>
+		<EAN>5056325657226</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Sweet Mint 10ml</NAME>
+		<CODE>205094</CODE>
+		<EAN>5056325657202</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Sweet Strawberr Ice 10ml</NAME>
+		<CODE>205095</CODE>
+		<EAN>5056325657189</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>7.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>E náplň Drifter Watermelon Apple 10ml</NAME>
+		<CODE>205096</CODE>
+		<EAN>5056325671383</EAN>
+		<PRICE>4.72</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>1.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>SYX Naplniteľný POD 2 Ks 0,6 Ohm</NAME>
+		<CODE>205097</CODE>
+		<EAN>8595721108477</EAN>
+		<PRICE>3.68</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>0.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
 		<NAME>blu bar Pod Apple Ice A /6</NAME>
 		<CODE>209248</CODE>
 		<EAN>8719964083760</EAN>
@@ -3074,7 +3354,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>36.00</VALUE>
+					<VALUE>30.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3088,7 +3368,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>23.00</VALUE>
+					<VALUE>11.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3158,7 +3438,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>170.00</VALUE>
+					<VALUE>164.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3200,7 +3480,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>162.00</VALUE>
+					<VALUE>161.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3214,7 +3494,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>122.00</VALUE>
+					<VALUE>109.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3228,7 +3508,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>150.00</VALUE>
+					<VALUE>149.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3284,7 +3564,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>277.00</VALUE>
+					<VALUE>276.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3298,7 +3578,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>7.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3312,7 +3592,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>11.00</VALUE>
+					<VALUE>3.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3382,7 +3662,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>83.00</VALUE>
+					<VALUE>77.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3396,7 +3676,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>132.00</VALUE>
+					<VALUE>120.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3410,7 +3690,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>42.00</VALUE>
+					<VALUE>24.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3452,7 +3732,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>46.00</VALUE>
+					<VALUE>34.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3480,7 +3760,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>59.00</VALUE>
+					<VALUE>35.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3508,7 +3788,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>46.00</VALUE>
+					<VALUE>22.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3564,7 +3844,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>20.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3578,7 +3858,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>100.00</VALUE>
+					<VALUE>80.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3648,7 +3928,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>60.00</VALUE>
+					<VALUE>50.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3690,7 +3970,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>60.00</VALUE>
+					<VALUE>40.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3704,7 +3984,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>70.00</VALUE>
+					<VALUE>60.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3718,7 +3998,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>80.00</VALUE>
+					<VALUE>60.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3886,7 +4166,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>8.00</VALUE>
+					<VALUE>7.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4306,7 +4586,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>44.00</VALUE>
+					<VALUE>39.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4320,7 +4600,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>66.00</VALUE>
+					<VALUE>61.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
