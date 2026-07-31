@@ -344,7 +344,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>25.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -372,7 +372,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>121.00</VALUE>
+					<VALUE>120.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -428,7 +428,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>140.00</VALUE>
+					<VALUE>133.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -708,7 +708,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>80.00</VALUE>
+					<VALUE>60.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -722,7 +722,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>16.00</VALUE>
+					<VALUE>6.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1632,7 +1632,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>28.00</VALUE>
+					<VALUE>13.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1800,7 +1800,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>7.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1856,7 +1856,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>7.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1870,7 +1870,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>7.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1898,7 +1898,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1912,7 +1912,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1926,7 +1926,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1940,7 +1940,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1954,7 +1954,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2430,7 +2430,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>69.00</VALUE>
+					<VALUE>64.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2458,7 +2458,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>15.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2612,7 +2612,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>7.00</VALUE>
+					<VALUE>4.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2640,7 +2640,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>7.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2654,7 +2654,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>3.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2668,7 +2668,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>2.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2976,7 +2976,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>4.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3312,7 +3312,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>2.00</VALUE>
+					<VALUE>32.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3368,7 +3368,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>30.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3382,7 +3382,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>20.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3396,7 +3396,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>11.00</VALUE>
+					<VALUE>41.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3410,7 +3410,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>10.00</VALUE>
+					<VALUE>20.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3466,7 +3466,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>34.00</VALUE>
+					<VALUE>40.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3830,7 +3830,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>11.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3858,7 +3858,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>3.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3914,7 +3914,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>10.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3998,7 +3998,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>40.00</VALUE>
+					<VALUE>30.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4194,7 +4194,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>31.00</VALUE>
+					<VALUE>21.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4208,7 +4208,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>17.00</VALUE>
+					<VALUE>15.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4236,7 +4236,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>7.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4306,7 +4306,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>13.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4712,7 +4712,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>27.00</VALUE>
+					<VALUE>17.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4824,7 +4824,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>900.00</VALUE>
+					<VALUE>898.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
