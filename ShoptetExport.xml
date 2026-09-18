@@ -204,7 +204,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>56.00</VALUE>
+					<VALUE>36.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -400,7 +400,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>143.00</VALUE>
+					<VALUE>133.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -428,7 +428,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>213.00</VALUE>
+					<VALUE>193.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -442,7 +442,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>84.00</VALUE>
+					<VALUE>79.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -456,7 +456,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>160.00</VALUE>
+					<VALUE>145.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1828,7 +1828,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>2.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -1856,7 +1856,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>13.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2220,7 +2220,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>55.00</VALUE>
+					<VALUE>35.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2276,7 +2276,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>23.00</VALUE>
+					<VALUE>22.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2514,7 +2514,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>510.00</VALUE>
+					<VALUE>480.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2528,7 +2528,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>11.00</VALUE>
+					<VALUE>41.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2542,7 +2542,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>24.00</VALUE>
+					<VALUE>34.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2556,7 +2556,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>23.00</VALUE>
+					<VALUE>43.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2584,7 +2584,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>18.00</VALUE>
+					<VALUE>28.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2612,7 +2612,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>9.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2640,7 +2640,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>16.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2654,7 +2654,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>40.00</VALUE>
+					<VALUE>60.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2668,7 +2668,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>45.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2682,7 +2682,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>34.00</VALUE>
+					<VALUE>49.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2696,7 +2696,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>30.00</VALUE>
+					<VALUE>40.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2766,7 +2766,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>6.00</VALUE>
+					<VALUE>11.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2780,7 +2780,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>20.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2808,7 +2808,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>10.00</VALUE>
+					<VALUE>20.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2822,7 +2822,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>20.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2836,7 +2836,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>1.00</VALUE>
+					<VALUE>6.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2850,7 +2850,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>15.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2906,7 +2906,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2920,7 +2920,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>6.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2934,7 +2934,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>1.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2948,7 +2948,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>2.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -2976,7 +2976,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>2.00</VALUE>
+					<VALUE>7.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3032,7 +3032,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>3.00</VALUE>
+					<VALUE>8.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3116,7 +3116,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>1.00</VALUE>
+					<VALUE>6.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3200,7 +3200,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>3.00</VALUE>
+					<VALUE>13.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3382,7 +3382,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>3.00</VALUE>
+					<VALUE>1.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3504,6 +3504,132 @@
 		<CODE>205097</CODE>
 		<EAN>8595721108477</EAN>
 		<PRICE>3.68</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>5.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>SYX BAR Grape Ice 20mg</NAME>
+		<CODE>205098</CODE>
+		<EAN>8595721106466</EAN>
+		<PRICE>4.14</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>10.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>SYX BAR Guava Granadilla 20mg</NAME>
+		<CODE>205099</CODE>
+		<EAN>8595721106497</EAN>
+		<PRICE>4.14</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>10.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>SYX BAR Mixed Berries 20mg</NAME>
+		<CODE>205100</CODE>
+		<EAN>8595721106527</EAN>
+		<PRICE>4.14</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>10.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>SYX BAR Watermelon Ice 20mg</NAME>
+		<CODE>205101</CODE>
+		<EAN>8595721106640</EAN>
+		<PRICE>4.14</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>10.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>SYX BAR Cherry Ice 20mg</NAME>
+		<CODE>205102</CODE>
+		<EAN>8595721109191</EAN>
+		<PRICE>4.14</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>10.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>SYX BAR Lemon passion grapefruit 20mg</NAME>
+		<CODE>205103</CODE>
+		<EAN>8595721109221</EAN>
+		<PRICE>4.14</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>10.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>SYX BAR Pineapple coconut 20mg</NAME>
+		<CODE>205104</CODE>
+		<EAN>8595721109252</EAN>
+		<PRICE>4.14</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>10.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>SYX POD Apple Pear 20mg 2x2ml</NAME>
+		<CODE>205105</CODE>
+		<EAN>8595721112603</EAN>
+		<PRICE>5.77</PRICE>
+		<STOCK>
+			<WAREHOUSES>
+				<WAREHOUSE>
+					<NAME>Hlavný sklad</NAME>
+					<VALUE>5.00</VALUE>
+				</WAREHOUSE>
+			</WAREHOUSES>
+		</STOCK>
+	</SHOPITEM>
+	<SHOPITEM>
+		<NAME>SYX POD Orange Clementine 20mg 2x2ml</NAME>
+		<CODE>205106</CODE>
+		<EAN>8595721112665</EAN>
+		<PRICE>5.77</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
@@ -3704,7 +3830,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>16.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3718,7 +3844,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>31.00</VALUE>
+					<VALUE>30.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3746,7 +3872,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>45.00</VALUE>
+					<VALUE>39.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3760,7 +3886,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>3.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3830,7 +3956,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>49.00</VALUE>
+					<VALUE>48.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -3956,7 +4082,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>18.00</VALUE>
+					<VALUE>6.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4040,7 +4166,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>162.00</VALUE>
+					<VALUE>144.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4124,7 +4250,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>48.00</VALUE>
+					<VALUE>36.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4306,7 +4432,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>50.00</VALUE>
+					<VALUE>40.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4334,7 +4460,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>60.00</VALUE>
+					<VALUE>40.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4376,7 +4502,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>110.00</VALUE>
+					<VALUE>100.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4404,7 +4530,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>90.00</VALUE>
+					<VALUE>80.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4516,7 +4642,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>12.00</VALUE>
+					<VALUE>9.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4567,12 +4693,12 @@
 		<NAME>Cgr Clubmaster SuperRedFilt 20ks 24,2 /5</NAME>
 		<CODE>212057</CODE>
 		<EAN>4000862230405</EAN>
-		<PRICE>5.61</PRICE>
+		<PRICE>7.79</PRICE>
 		<STOCK>
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>5.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4642,7 +4768,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>0.00</VALUE>
+					<VALUE>15.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4838,7 +4964,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>8.00</VALUE>
+					<VALUE>6.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4908,7 +5034,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>780.00</VALUE>
+					<VALUE>400.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4922,7 +5048,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>36.00</VALUE>
+					<VALUE>23.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4936,7 +5062,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>232.00</VALUE>
+					<VALUE>222.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -4964,7 +5090,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>80.00</VALUE>
+					<VALUE>50.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5034,7 +5160,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>36.00</VALUE>
+					<VALUE>34.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5048,7 +5174,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>430.00</VALUE>
+					<VALUE>420.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5076,7 +5202,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>80.00</VALUE>
+					<VALUE>67.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5118,7 +5244,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>7.00</VALUE>
+					<VALUE>12.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5132,7 +5258,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>65.00</VALUE>
+					<VALUE>60.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5230,7 +5356,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>15.00</VALUE>
+					<VALUE>10.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5258,7 +5384,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>44.00</VALUE>
+					<VALUE>34.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5272,7 +5398,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>46.00</VALUE>
+					<VALUE>36.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5286,7 +5412,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>20.00</VALUE>
+					<VALUE>15.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5300,7 +5426,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>5.00</VALUE>
+					<VALUE>0.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5454,7 +5580,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>94.00</VALUE>
+					<VALUE>84.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
@@ -5468,7 +5594,7 @@
 			<WAREHOUSES>
 				<WAREHOUSE>
 					<NAME>Hlavný sklad</NAME>
-					<VALUE>549.00</VALUE>
+					<VALUE>479.00</VALUE>
 				</WAREHOUSE>
 			</WAREHOUSES>
 		</STOCK>
